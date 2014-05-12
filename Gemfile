@@ -40,6 +40,11 @@ gem 'acts_as_list', '~> 0.4.0'
 gem 'devise'
 
 gem 'selenium-webdriver'
+
+gem 'pg'
+
+gem 'rails_12factor', group: :production
+
 # Use unicorn as the app server
 # gem 'unicorn'
 
